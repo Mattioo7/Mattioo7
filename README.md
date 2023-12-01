@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mattioo7
-- 🖥 I'm Java Developer, but i know Flutter and React as well.
+- 🖥 I'm Java Developer, but I know Flutter and React as well.
 - 🎓 I’m currently studying Computer Science at Warsaw Univeristy of Technology
 - 🎮 I'm open to all challanges
 - ♟  I like to play chess and baskeball
