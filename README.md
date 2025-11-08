@@ -2,15 +2,16 @@
 
 ## About Me
 
-I am **Mati**. Below is an overview of my background:
+I am **Mateusz**. Below is an overview of my background:
 
 - 🎓 **Education**: 
-  - Bachelor’s degree in Computer Science from the **Faculty of Mathematics and Information Science** at the **Warsaw University of Technology**.
+  - Bachelor’s degree in **Computer Science** from the **Faculty of Mathematics and Information Science** at the **Warsaw University of Technology**.
   - Currently pursuing a **Master's in Artificial Intelligence** at the **Warsaw University of Technology** and the **University of Trento, Italy**.
 
 - 💼 **Professional Experience**: 
-  - Over 2 years of experience as **Software enginner** in **Java**.
-  - Multiple **mobile application** as side projects using **Flutter**.
+  - Over 3 years of experience as **Software enginner** in **Java**.
+  - I do **mobile application** as side projects using **Flutter**.
+  - **AI** including **Machine Laerning** and **Computer Vision**.
 
 - 🎮 **Hobbies**:
   - Interests include playing **chess** and **basketball**.
