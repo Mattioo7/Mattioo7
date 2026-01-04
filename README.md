@@ -11,7 +11,7 @@ I am **Mateusz**. Below is an overview of my background:
 - 💼 **Professional Experience**: 
   - Over 3 years of experience as **Software enginner** in **Java**.
   - I do **mobile application** as side projects using **Flutter**.
-  - **AI** including **Machine Laerning** and **Computer Vision**.
+  - **AI** including **Machine Learning** and **Computer Vision**.
 
 - 🎮 **Hobbies**:
   - Interests include playing **chess** and **basketball**.
